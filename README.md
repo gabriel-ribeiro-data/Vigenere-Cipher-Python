@@ -50,19 +50,23 @@
     </td>
   </tr>
 </table>
+<br>
+
+  Fig. 3 shows the complete operation of the application running, including input prompts and the output results generated during the encryption and decryption processes. This illustration provides a clear overview of how the application functions in real-time, demonstrating its capabilities and user interaction through console inputs and outputs.
 
 <table align="center">
   <tr>
     <td align="center">
-      <img src='/Images/Image 3.png' width="300">
+      <img src='/Images/Image 3.png' width="500">
     </td>
   </tr>
   <tr>
     <td align="center">
-      <em>Fig. 2. User's choice between encrypting and decrypting </em>
+      <em>Fig. 3. Example of the Application Running </em>
     </td>
   </tr>
 </table>
+
 ## Authors
 
 * Gabriel Ribeiro Fernandes
@@ -74,44 +78,34 @@
 
 ## References
 
-- [1] **BAHIENSE, Beatriz.** Environmental Education Quiz. *Racha Cuca*, 2014. Updated on Feb. 5, 2020. Available at: [rachacuca.com.br](https://rachacuca.com.br/quiz/77475/educacao-ambiental/). Accessed on: Apr. 25, 2024.
+- [1] BORGES, Izabella B. F. Types of Cryptography: How They Work and Their Importance. Clicksign, Barueri, Apr. 17, 2023. Available at: clicksign.com.br. Accessed on: Oct. 8, 2023.
 
-- [2] **BRUMATTI, Gabriela.** Entering the Red: the planet is about to exhaust the natural resources it had for 2021. *g1*, July 28, 2021. Available at: [g1.globo.com](https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2021/07/28/entrando-no-vermelho-planeta-esta-prestes-a-esgotar-os-recursos-naturais-que-tinha-para-2021.ghtml). Accessed on: Apr. 3, 2024.
+- [2] Caesar Cipher. Wikipedia, 2023. Available at: wikipedia.org. Accessed on: Sept. 26, 2023.
 
-- [3] **CÉREBRO BINÁRIO.** Basic Java Beginner - Quiz Questions and Answers Program. *Cérebro Binário Channel*, published on Nov. 22, 2019. Available at: [YouTube](https://www.youtube.com/watch?v=grC4zaq01Vs). Accessed on: Apr. 25, 2024.
+- [3] Vigenère Cipher. Wikipedia, 2023. Available at: wikipedia.org. Accessed on: Sept. 26, 2023.
 
-- [4] **DEV MEDIA.** Main Concepts about Interfaces. *DEV MEDIA*, [n.d.]. Available at: [devmedia.com.br](https://www.devmedia.com.br/interfaces-programacao-orientada-a-objetos/18695). Accessed on: Apr. 5, 2024.
+- [4] Confederate Cipher Disc. Crypto Museum, 2023. Available at: cryptomuseum.com. Accessed on: Oct. 11, 2023.
 
-- [5] **ELADIO, Nvutu.** OOP – Object-Oriented Programming: Complete Guide. *Dio*, [n.d.]. Available at: [dio.me](https://www.dio.me/articles/poo-programacao-orientada-a-objetos-guia-completo). Accessed on: Apr. 3, 2024.
+- [5] Discover What Are the Types of Cryptography. DocuSign, Sept. 30, 2022. Available at: docusign.com.br. Accessed on: Oct. 7, 2023.
 
-- [6] **eCycle TEAM.** Deforestation: impacts, causes, and consequences. *eCycle*, [n.d.]. Available at: [ecycle.com.br](https://www.ecycle.com.br/desmatamento/). Accessed on: Mar. 18, 2024.
+- [6] DONDA, Daniel. The Mathematics of the Vigenère Cipher. Daniel Donda, Aug. 31, 2010. Available at: danieldonda.com. Accessed on: Oct. 8, 2023.
 
-- [7] **Alura GROUP.** OOP: what is object-oriented programming? *Alura*, [n.d.]. Available at: [alura.com.br](https://www.alura.com.br/artigos/poo-programacao-orientada-a-objetos#:~:text=farol%20do%20carro-,Encapsulamento%2C%20heran%C3%A7a%20e%20polimorfismo%3A%20as%20principais%20caracter%C3%ADsticas%20da%20POO,alguns%20problemas%20da%20programa%C3%A7%C3%A3o%20estruturada). Accessed on: Apr. 4, 2024.
+- [7] DOS REIS, Fábio. Cryptography – Vigenère Cipher. Bóson Treinamentos, Sept. 6, 2016. Available at: bosontreinamentos.com.br. Accessed on: Oct. 8, 2023.
 
-- [8] **INDUSTRY A - Z.** Deforestation. *Portal da Indústria*, [n.d.]. Available at: [portaldaindustria.com.br](https://www.portaldaindustria.com.br/industria-de-a-z/desmatamento/#:~:text=O%20desmatamento%20%C3%A9%20a%20remo%C3%A7%C3%A3o,minera%C3%A7%C3%A3o%20e%20infraestrutura%20e%20urbana). Accessed on: Mar. 18, 2024.
+- [8] FIELDS, Brandon T. Figure 1. Vigenère Table. 2011. Digital image. Available at: wikipedia.org. Accessed on: Oct. 26, 2023.
 
-- [9] **MAGALHÃES, Lana.** Global Warming. *Toda Matéria*, [n.d.]. Available at: [todamateria.com.br](https://www.todamateria.com.br/aquecimento-global/). Accessed on: Mar. 5, 2024.
+- [9] JAMAL, Taha. The Vigenère Cipher: A Story of Cryptography and Intrigue. Museum, Jan. 25, 2023. Available at: medium.com. Accessed on: Oct. 11, 2023.
 
-- [10] **WHAT ARE Greenhouse Gases?** *ABNT Online*, [n.d.]. Available at: [abntonline.com.br](https://www.abntonline.com.br/sustentabilidade/GHG/O_que_%C3%A9_gee). Accessed on: Mar. 6, 2024.
+- [10] KHANDURI, Ayush. Vigenère Cipher. Geeks for Geeks, May 29, 2023. Available at: geeksforgeeks.org. Accessed on: Sept. 26, 2023.
 
-- [11] **OLIVEIRA, Paulo.** Object-Oriented Programming - When to Use this Resource? *Escola Linux*, [n.d.]. Available at: [nova.escolalinux.com.br](https://nova.escolalinux.com.br/blog/programacao-orientada-a-objetos-quando-utilizar-esse-recurso#:~:text=O%20que%20%C3%A9%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20(POO)%3F&text=Na%20POO%2C%20um%20objeto%2C%20%C3%A9,a%20execu%C3%A7%C3%A3o%20de%20a%C3%A7%C3%B5es%20espec%C3%ADficas). Accessed on: Apr. 4, 2024.
+- [11] What is Data Encryption? Definition and Explanation. Kaspersky, 2023. Available at: kaspersky.com.br. Accessed on: Oct. 7, 2023.
 
-- [12] **PASSOS, R.; PARREIRA, F. J.; ULBRICHT, V. R. (Orgs.).** The Emerging Innovation: Technologies and Interfaces [Ebook]. Goiânia: CEGRAF UFG, 2020. Available at: [publica.ciar.ufg.br](https://publica.ciar.ufg.br/ebooks/cinahpa_a_inovacao_emergente/index.html). Accessed on: Apr. 8, 2024.
+- [12] What is Cryptography? AWS Amazon, 2023. Available at: aws.amazon.com. Accessed on: Oct. 7, 2023.
 
-- [13] **AIR Quality National Policy will proceed urgently.** *Senate Agency*, Mar. 5, 2024. Available at: [senado.leg.br](https://www12.senado.leg.br/noticias/materias/2024/03/05/politica-nacional-de-qualidade-do-ar-tramitara-em-regime-de-urgencia). Accessed on: Mar. 30, 2024.
+- [13] ROBOT, Marvin T. How a 17th Century Cipher Becomes an Unbreakable Cryptography? Kaspersky, Sept. 21, 2015. Available at: kaspersky.com.br. Accessed on: Sept. 26, 2023.
 
-- [14] **WHAT are the consequences of overexploitation of natural resources?** *Ministry of Education*, Nov. 4, 2021. Available at: [gov.br](https://www.gov.br/fundaj/pt-br/destaques/observa-fundaj-itens/observa-fundaj/revitalizacao-de-bacias/copy_of_quais-sao-as-consequencias-da-superexploracao-dos-recursos-naturais#:~:text=Os%20seres%20humanos%20est%C3%A3o%20esgotando%20esses%20recursos%20naturais%20do%20planeta,est%C3%A1%20criando%20um%20enorme%20d%C3%A9ficit). Accessed on: Apr. 5, 2024.
+- [14] SILVA, Bárbara L. Cryptography and Codes: See the Main Ways to Hide Information Used Throughout History. QueroBolsa, Aug. 24, 2023. Available at: querobolsa.com.br. Accessed on: Sept. 26, 2023.
 
-- [15] **WHO, WMO, and UN Environment Programme.** *Air Quality and Health*. Geneva: World Health Organization, 2021. Available at: [who.int](https://www.who.int/teams/environmental-health-and-safety/air-quality-and-health). Accessed on: Mar. 30, 2024.
+- [15] SIMMONS, Gustavus J. Vigenère Cipher. Britannica, 2023. Available at: britannica.com. Accessed on: Sept. 26, 2023.
 
-- [16] **ARAÚJO, Flávio.** What is Deforestation? *Portal da Indústria*, [n.d.]. Available at: [portaldaindustria.com.br](https://www.portaldaindustria.com.br/industria-de-a-z/desmatamento/o-que-e-desmatamento/). Accessed on: Apr. 10, 2024.
-
-- [17] **WATTS, Jonathan.** "The World’s Water Crisis: 2.7 Billion People Face Water Scarcity." *The Guardian*, Aug. 7, 2023. Available at: [theguardian.com](https://www.theguardian.com/environment/2023/aug/07/water-crisis-scarcity-climate-change). Accessed on: Apr. 15, 2024.
-
-- [18] **UNION OF CONCERNED SCIENTISTS.** "Climate Change Impacts." Available at: [ucsusa.org](https://www.ucsusa.org/resources/climate-change-impacts). Accessed on: Apr. 15, 2024.
-
-- [19] **WORLD WILDLIFE FUND.** "Deforestation: Causes and Consequences." Available at: [worldwildlife.org](https://www.worldwildlife.org/threats/deforestation-and-forest-degradation). Accessed on: Apr. 15, 2024.
-
-- [20] **FOOD AND AGRICULTURE ORGANIZATION OF THE UNITED NATIONS.** "State of the World’s Forests 2020." Available at: [fao.org](https://www.fao.org/state-of-forests/en/). Accessed on: Apr. 15, 2024.
-
-- [21] **IPCC.** "Climate Change 2022: Impacts, Adaptation, and Vulnerability." Available at: [ipcc.ch](https://www.ipcc.ch/report/ar6/wg2/). Accessed on: Apr. 15, 2024.
+- [16] Vigenère Cipher. Wikipedia, 2023. Available at: wikipedia.org. Accessed on: Oct. 11, 2023.
