@@ -2,7 +2,7 @@
 # Implementation of the Vigenère cipher in Python
 ----
 
-### This repository contains the development of a Python-based implementation of the Vigenère cipher, created during my undergraduate studies in Computer Science. Please note that the language of the implementation is in the authors' native language (Brazilian Portuguese).
+### This repository contains the development of a Python-based implementation of the Vigenère cipher, created during my Bachelor's studies in Computer Science. Please note that the language of the implementation is in the authors' native language (Brazilian Portuguese).
 ----
 
 ## Introduction
